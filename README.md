@@ -1,6 +1,7 @@
 # dog_cat_recognizer
 
-Dog Cat recognizer with NN in Flutter
+Dog Cat recognizer with NN in Flutter. Tensor Flow model built with https://teachablemachine.withgoogle.com/
+Based on dataset took from https://www.kaggle.com/tongpython/cat-and-dog
 
 ## Getting Started
 
